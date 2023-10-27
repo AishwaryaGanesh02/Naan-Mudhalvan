@@ -12,6 +12,6 @@ Financial Independence, Retire Early (FIRE) is a movement of people devoted to a
 
 **Git link:** https://github.com/AishwaryaGanesh02/Naan-Mudhalvan
 
-**Demo link:** 
+**Demo link:** https://drive.google.com/file/d/1lbC4Z_1ASzAOZhK51DVFg0iizzMdWcsB/view?usp=drive_link
 
 **Dataset:** https://drive.google.com/file/d/1axWT879n_zFn2IiCzQbDJkNE8OC95gX4/view?usp=share_link
